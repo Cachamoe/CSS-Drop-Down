@@ -27,7 +27,7 @@
             float: left;
         }
 
-        li a {
+        li a, .dropbtn {
             display: block;
             color: black;
             margin-top: -16px;
@@ -41,8 +41,7 @@
             border-bottom-color: #00A86B;
         }
 
-        li a:hover,
-        .dropdown:hover {
+        li a:hover, .dropdown:hover .dropbtn {
             background-color: #00A86B;
         }
 
@@ -94,14 +93,14 @@
     <ul>
         <li id="getUwired"><a href="#">GETUWIRED</a></li>
         <li class="dropdown">
-            <a href="#">ABOUT</a>
+            <a href="#" class="dropbtn">ABOUT</a>
             <div class="dropdown-content">
                 <a href="#">OUR STORY</a>
                 <a href="#">OUR COMMITMENT TO YOU</a>
             </div>
         </li>
         <li class="dropdown">
-            <a href="#">LOCATIONS</a>
+            <a href="#" class="dropbtn">LOCATIONS</a>
             <div class="dropdown-content">
                 <a href="#">AUSTIN, TX</a>
                 <a href="#">ATLANTA, GA</a>
@@ -110,7 +109,7 @@
             </div>
         </li>
         <li class="dropdown">
-            <a href="#">PRODUCTS</a>
+            <a href="#" class="dropbtn">PRODUCTS</a>
             <div class="dropdown-content">
                 <a href="#">NEW ARRIVALS</a>
                 <a href="#">FEATURED</a>
