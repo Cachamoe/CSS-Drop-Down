@@ -1,6 +1,6 @@
 # CSS-Drop-Down
 
-![](https://github.com/Cachamoe/Server-Side-Api/blob/master/Assets/Screen%20Shot%202020-09-16%20at%2010.52.11%20AM.png)
+![]()
 
 ## Overview
 This website was made for practice with CSS Dropdowns. 
