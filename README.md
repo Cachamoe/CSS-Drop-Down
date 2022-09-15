@@ -8,12 +8,8 @@ This website was made for practice with CSS Dropdowns.
 Here is a link to the deployed webpage: []
 
 
-
-## Website Features
-
-
 ## Technologies 
-HTML, CSS
+HTML, CSS, Google Fonts
 
 ## License 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
