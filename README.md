@@ -5,9 +5,6 @@
 ## Overview
 This website was made for practice with CSS Dropdowns. 
 
-Here is a link to the deployed webpage: []
-
-
 ## Technologies 
 HTML, CSS, Google Fonts
 
