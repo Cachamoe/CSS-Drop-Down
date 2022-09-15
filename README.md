@@ -13,7 +13,7 @@ Here is a link to the deployed webpage: []
 
 
 ## Technologies 
-HTML, CSS, Javascript, jQuery, Moment.js, and Bootstrap
+HTML, CSS
 
 ## License 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
